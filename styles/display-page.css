@@ -1,0 +1,34 @@
+
+.contenedor{
+	margin-right: auto;
+	margin-left: auto;
+	height: 500px;
+	width: 800px;
+	margin-top: 2%; }
+
+.caja{border:1px solid black;
+	display: inline-block;}
+
+
+
+.Fila{text-align: center;
+	font-size: 0;}
+
+
+.mitad{width: 50%;
+	height: 200px;}
+
+.tercio{width: 33.33%;
+		height: 300px;} 			
+
+.izquierda{
+			background-color: green;
+			}
+
+.derecha{background-color:blue;}
+
+
+.primero{background-color: grey;}
+
+.segundo{background-color: black;}
+.tercero{background-color: orange;}
