@@ -1,0 +1,48 @@
+main {
+  padding-top: 100px;
+}
+
+header {
+  background-color: #eebb44;
+  margin-bottom: 2%;
+  width: 100%;
+}
+
+
+
+header h1 {
+  line-height: 1;
+  margin-bottom: 0;
+}
+
+header p {
+  margin-top: 1%;
+}
+
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #252525;
+}
+
+.card{
+  border: 1px solid #E5E5E5;
+  margin-bottom: 20px;
+}
+
+.card-image {
+  width: 100%;
+}
+
+.card-content {
+  padding: 20px;
+}
+
+.card-content h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.card-content p {
+  margin: 1% 0;
+}
